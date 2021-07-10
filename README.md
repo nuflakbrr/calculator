@@ -1,6 +1,6 @@
-# nuflakbrr.github.io
+# nuflakbrr.github.io/simple-calculator
 
-Personal Portfolio Website.
+Simple Calculator Website.
 
 ## Authors
 
